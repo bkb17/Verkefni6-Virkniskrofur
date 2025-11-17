@@ -38,3 +38,6 @@ Höfundur gerir skref 1-5 og 8. Rýnir gerir skref 6 og 7.
 ## Tenglar
 
 [Verkefni 1 repository (Stoð)](https://github.com/olithgspam/Verkefni-1-Tegundir-krafna)
+
+---
+**Athugasemd um vinnulag:** Við hittumst og unnum verkefnið saman á tölvunni hans Óla.
